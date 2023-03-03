@@ -5,4 +5,3 @@ users:
     shell: /bin/bash
     sudo: ['ALL=(ALL) NOPASSWD:ALL']
     ssh_authorized_keys:
-      - ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQCWReskgIGdbMZaifSfbPdae/gVqd6doQMs/5HL/k3ovBDXEurS54OTBtKYxdiYb5IQMeQMMqTCpbCY96/CchDrVuHFGbxxn477HCRZlV0uKECeiDVTglGZkmY0qvbe0fcpURj49gSyx4WmM+0Oh793XrlxyDtvuEUtKQ+NA6RtRKV7w23QlHepN8h5Lsy8KMWFacWK45+vbOR4B9M2EDXuP2w0BjnmnZnLGEKRfFKhr4nuD2JpqVAxdkVzmOlTMt5su1PwsVpwVmLI3FYvYdheyI6fo26ID3spW9jrw8gTaUxu4fmgX398mA0uP0M6m3vzSfzj8HuGTZt2fHwFnoTx ansible-generated on sfubnt
