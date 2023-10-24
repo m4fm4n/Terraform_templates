@@ -1,4 +1,4 @@
 Шаблоны для terraform:
-- создание vm
 - создание load_ballancer
+- создание vm
 - создание object storage
