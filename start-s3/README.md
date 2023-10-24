@@ -1,1 +1,1 @@
-Создание S3-bucket в облачном провайдере Yandex Cloud.
+Создание Object Storage - bucket в облачном провайдере Yandex Cloud.
